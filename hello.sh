@@ -3,3 +3,4 @@
 read -p "enter the name :" name
 
 echo "hellp frnds $name"
+ echo "oooooohhhh"
